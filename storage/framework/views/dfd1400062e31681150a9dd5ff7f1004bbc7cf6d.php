@@ -1,0 +1,1 @@
+<a href = "<?php echo e(url('edit')); ?>"><button >Add Product</button></a>
